@@ -5,4 +5,4 @@ const office = [{
     name: "Senate",
 }];
 
-export default office;  
+export default office;
